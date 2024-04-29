@@ -1,4 +1,4 @@
-Esse é um projeto base para quem está precisando criar uma aplicação com Docker, PHP e Nginx.
+Esse é um projeto base para quem está precisando criar uma aplicação com Docker, PHP 8.2-fpm e Nginx.
 
 Criei esse repositório depois de muitas horas batendo cabeça até entender como o nginx funcionaria em conjunto com o php via container
 
